@@ -1,0 +1,25 @@
+{
+  "name": "demux-ocean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/demux-ocean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/demux-ocean/issues"
+  },
+  "homepage": "https://github.com/hfu/demux-ocean#readme",
+  "dependencies": {
+    "config": "^3.0.1",
+    "hjson": "^3.1.2",
+    "json-text-sequence": "^0.1.1"
+  }
+}

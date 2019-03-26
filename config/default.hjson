@@ -1,0 +1,8 @@
+{
+  srcPath: ../pull.rfc8142
+  mainPath: ../main.rfc8142
+  subPath: ../sub.rfc8142
+  subRelations: [
+    custom_planet_ocean
+  ]
+}
